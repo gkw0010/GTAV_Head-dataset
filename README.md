@@ -3,3 +3,5 @@ GTA_Head is a large-scale virtual world dataset for crowd counting and head dete
 # Download
  [[Google Drive](https://drive.google.com/file/d/1GWg8y4FDFwNznIRi0AaoqYuT8RNN-kKn/view)]
  [[Baidu Drive](https://pan.baidu.com/s/1SEeaB5IvDt1L_xwaSX6rhQ?pwd=gta5)]
+# Attention
+GTA_Head dataset is free for research purpose only. For any questions about the dataset, please contact: gk_wang0010@163.com.
