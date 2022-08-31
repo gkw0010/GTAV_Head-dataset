@@ -4,7 +4,8 @@ GTA_Head is a large-scale virtual world dataset for crowd counting and head dete
  [[Google Drive](https://drive.google.com/file/d/1GWg8y4FDFwNznIRi0AaoqYuT8RNN-kKn/view)]
  [[Baidu Drive](https://pan.baidu.com/s/1SEeaB5IvDt1L_xwaSX6rhQ?pwd=gta5)]
 # Related Datasets
-[CroHD dataset (https://motchallenge.net/data/Head_Tracking_21)] provides tracking annotation of pedestrian heads in densely populated video sequences. It consists of 2,276,838 human heads in 11,463 frames across 9 sequences of Full-HD resolution.
-[GCC dateset (https://github.com/gjy3035/GCC-CL)]
+[CroHD dataset](https://motchallenge.net/data/Head_Tracking_21) provides tracking annotation of pedestrian heads in densely populated video sequences. It consists of 2,276,838 human heads in 11,463 frames across 9 sequences of Full-HD resolution.
+
+[GCC dateset](https://github.com/gjy3035/GCC-CL) provides a large-scale, diverse synthetic dataset consisting of 15,212 images, with resolution of 1080 × 1920, containing 7,625,843 persons.
 # Attention
 GTA_Head dataset is free for research purpose only. For any questions about the dataset, please contact: gk_wang0010@163.com.
