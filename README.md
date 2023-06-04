@@ -9,3 +9,14 @@ GTA_Head is a large-scale virtual world dataset for crowd counting and head dete
 [GCC dateset](https://github.com/gjy3035/GCC-CL) provides a large-scale, diverse synthetic dataset consisting of 15,212 images, with resolution of 1080 × 1920, containing 7,625,843 persons.
 # Attention
 GTA_Head dataset is free for research purpose only. For any questions about the dataset, please contact: gk_wang0010@163.com.
+
+## Citation
+
+```
+@article{zhong2022mask,
+  title={Mask Focal Loss for dense crowd counting with canonical object detection networks},
+  author={Zhong, Xiaopin and Wang, Guankun and Liua, Weixiang and Wua, Zongze and Deng, Yuanlong},
+  journal={arXiv preprint arXiv:2212.11542},
+  year={2022}
+}
+```
