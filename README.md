@@ -13,10 +13,12 @@ GTA_Head dataset is free for research purpose only. For any questions about the 
 ## Citation
 
 ```
-@article{zhong2022mask,
-  title={Mask Focal Loss for dense crowd counting with canonical object detection networks},
-  author={Zhong, Xiaopin and Wang, Guankun and Liua, Weixiang and Wua, Zongze and Deng, Yuanlong},
-  journal={arXiv preprint arXiv:2212.11542},
-  year={2022}
+@article{zhong2024mask,
+  title={Mask focal loss: a unifying framework for dense crowd counting with canonical object detection networks},
+  author={Zhong, Xiaopin and Wang, Guankun and Liu, Weixiang and Wu, Zongze and Deng, Yuanlong},
+  journal={Multimedia Tools and Applications},
+  pages={1--23},
+  year={2024},
+  publisher={Springer}
 }
 ```
